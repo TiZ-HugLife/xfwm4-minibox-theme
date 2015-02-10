@@ -1,6 +1,6 @@
 # xfwm4-minibox-theme
 
-A public domain minimalistic boxy theme for XFWM4, reminiscent of borders from minimalistic/tiling window managers. This theme is for users who like keyboard shortcuts and/or are using something xfce4-namebar-plugin or xfce4-windowck-plugin.
+A public domain minimalistic boxy theme for XFWM4, inspired by borders from minimalistic/tiling window managers. This theme is for users who like keyboard shortcuts and/or are using something like xfce4-namebar-plugin or xfce4-windowck-plugin. It looks pretty good when you use an external compositor like Compton's frame opacity controls.
 
 ## How to use
 
