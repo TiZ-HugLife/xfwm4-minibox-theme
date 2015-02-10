@@ -1,0 +1,7 @@
+/* XPM */
+static char * image[] = {
+"2 2 2 1",
+" 	c None",
+".	c %COLOR%",
+" ."
+".."};
