@@ -11,10 +11,10 @@ ACTIVE="$3"
 BUTTON="$4"
 [[ "$BUTTON" ]] || BUTTON="$ACTIVE"
 
-if ! [[ -d "${SIZE}px" ]]; then
+if ! [[ -d "${SIZE}" ]]; then
     echo "That size is not available."
     exit 1
-elif ! [[ -e "${SIZE}px/tl${RADIUS}.xpm" ]]; then
+elif ! [[ -e "${SIZE}/tl${RADIUS}.xpm" ]]; then
     echo "That corner radius is not available."
     exit 1
 fi
